@@ -1,0 +1,11 @@
+.fullHeight {
+  height: 100vh;
+}
+
+.block1 {
+  background-color: gray;
+}
+
+.block2 {
+  background-color: purple;
+}
